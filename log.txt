@@ -1,0 +1,47 @@
+commit 9c778282ed2bc4fe0dd358f005206300fdb9e093
+Author: Zhiqu Zhang <zhzzhang@adit.mines.edu>
+Date:   Tue Sep 27 14:50:23 2016 -0600
+
+    changed mouth height and mouth color
+
+commit 2da4d72e5faf83d43ccef5af1b53bbcd1cb9f7d1
+Author: Ruby Wang <zirwang@mymail.mines.edu>
+Date:   Tue Sep 27 14:49:09 2016 -0600
+
+    Changed eye back to original
+
+commit 3357165ceba7164637bb8360ceef367edbd156a6
+Author: Zhiqu Zhang <zhzzhang@adit.mines.edu>
+Date:   Tue Sep 27 14:48:16 2016 -0600
+
+    changed eye height and fillOval
+
+commit a4a175106665a591ce344efcf17d24aa6642adaf
+Author: Ruby Wang <zirwang@mymail.mines.edu>
+Date:   Tue Sep 27 14:45:01 2016 -0600
+
+    Cat color to Gray
+
+commit 31d7d040edf8be47e9cd5239d896c1d1342f7d7a
+Author: Zhiqu Zhang <zhzzhang@adit.mines.edu>
+Date:   Tue Sep 27 14:43:45 2016 -0600
+
+    Changed text
+
+commit 96503bb80c76e8568ba6799313cf09bfb4aad07d
+Author: Ruby Wang <zirwang@mymail.mines.edu>
+Date:   Tue Sep 27 14:41:03 2016 -0600
+
+    Cat color change
+
+commit e5ba5d97aacd2fb77dc794ad9276434228259941
+Author: Zhiqu Zhang <zhzzhang@adit.mines.edu>
+Date:   Tue Sep 27 14:35:22 2016 -0600
+
+    initial commit - two new files added
+
+commit fc56282db2f52ee2aae80026127a10f71338039a
+Author: zhzzhang <zhzzhang@mymail.mines.edu>
+Date:   Tue Sep 27 14:13:52 2016 -0600
+
+    Initial commit
